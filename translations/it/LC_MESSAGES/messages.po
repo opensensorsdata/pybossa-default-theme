@@ -64,7 +64,7 @@ msgstr "Configurazione"
 #: themes/default/templates/admin/update_category.html:13
 #: themes/default/templates/admin/users.html:14
 msgid "Admin Site"
-msgstr "Sito amministratore"
+msgstr "Sito Amministrazione"
 
 #: themes/default/templates/_navbar.html:30
 msgid "Sign Out"
@@ -129,7 +129,7 @@ msgstr "Contatto"
 
 #: themes/default/templates/base.html:93
 msgid "Email"
-msgstr "Posta elettronica"
+msgstr "Email"
 
 #: themes/default/templates/base.html:94
 msgid "Twitter"
@@ -163,7 +163,7 @@ msgstr "E-mail"
 #: themes/default/templates/account/_helpers.html:67
 #: themes/default/templates/stats/index.html:17
 msgid "Rank"
-msgstr "Rango"
+msgstr "Posizione"
 
 #: themes/default/templates/account/_helpers.html:59
 #: themes/default/templates/projects/tasks_browse.html:33
@@ -180,7 +180,7 @@ msgstr "compiti contribuito"
 
 #: themes/default/templates/account/_helpers.html:67
 msgid "The user has not contributed to any tasks yet"
-msgstr "L'utente non ha ancora contribuito a qualsiasi attività"
+msgstr "L'utente non ha ancora contribuito a nessuna attività"
 
 #: themes/default/templates/account/_helpers.html:70
 #: themes/default/templates/home/index.html:78
@@ -198,7 +198,7 @@ msgstr "Modifica il tuo profilo"
 #: themes/default/templates/account/_helpers.html:100
 #: themes/default/templates/projects/_helpers.html:7
 msgid "Prev"
-msgstr "Prev"
+msgstr "Precedente"
 
 #: themes/default/templates/account/_helpers.html:120
 #: themes/default/templates/projects/_helpers.html:27
@@ -207,7 +207,7 @@ msgstr "Successivo"
 
 #: themes/default/templates/account/account_validation.html:7
 msgid "Just one more step, please"
-msgstr ""
+msgstr "Ancora un altro passaggio, grazie"
 
 #: themes/default/templates/account/account_validation.html:8
 msgid ""
@@ -215,16 +215,21 @@ msgid ""
 " just provided. Please, check it out and click on the link you'll find to"
 " create your account at"
 msgstr ""
+"In order to confirm your identity, we've sent an email to the address you"
+" just provided. Please, check it out and click on the link you'll find to"
+" create your account at"
 
 #: themes/default/templates/account/account_validation.html:9
 msgid ""
 "If you are not receiving the email, please check the junk folder. If it's"
 " not there please drop us an email to"
 msgstr ""
+"If you are not receiving the email, please check the junk folder. If it's"
+" not there please drop us an email to"
 
 #: themes/default/templates/account/account_validation.html:10
 msgid "In the meantime, you can check some of the amazing"
-msgstr ""
+msgstr "Nel frattempo, puoi cercare qualcosa di interessante"
 
 #: themes/default/templates/account/account_validation.html:10
 #, fuzzy
@@ -233,7 +238,7 @@ msgstr "Progetti"
 
 #: themes/default/templates/account/account_validation.html:10
 msgid "and contribute to them as anonymous"
-msgstr ""
+msgstr "e contribuisci ad essi come anonimo"
 
 #: themes/default/templates/account/index.html:14
 msgid "registered users"
@@ -242,26 +247,28 @@ msgstr "utenti registrati"
 #: themes/default/templates/account/index.html:14
 #: themes/default/templates/stats/global.html:49
 msgid "Leaderboard"
-msgstr "Leaderboard"
+msgstr "La tabella dei leader"
 
 #: themes/default/templates/account/newsletter.html:10
 #, fuzzy
 msgid "Newsletter"
-msgstr "Cancella"
+msgstr "Newsletter"
 
 #: themes/default/templates/account/newsletter.html:11
 msgid ""
 "If you want to be updated with our new features, projects, and\n"
 "        scientific projects, subscribe to our newsletter."
 msgstr ""
+"If you want to be updated with our new features, projects, and\n"
+"        scientific projects, subscribe to our newsletter."
 
 #: themes/default/templates/account/newsletter.html:15
 msgid "Sign me up!"
-msgstr ""
+msgstr "Iscrivimi!"
 
 #: themes/default/templates/account/newsletter.html:18
 msgid "Not interested"
-msgstr ""
+msgstr "Non interessato"
 
 #: themes/default/templates/account/password_forgot.html:6
 #: themes/default/templates/account/password_reset.html:6
@@ -479,37 +486,37 @@ msgstr "Resetta la password"
 #: themes/default/templates/account/email/forgot_password_openid.html:8
 #: themes/default/templates/account/email/validate_account.html:8
 msgid "Hello"
-msgstr ""
+msgstr "Salve"
 
 #: themes/default/templates/account/email/forgot_password.html:14
 #: themes/default/templates/account/email/forgot_password_openid.html:13
 msgid "We received a request to recover your password for"
-msgstr ""
+msgstr "Abbiamo ricevuto una richiesta di recuperare la tua password per"
 
 #: themes/default/templates/account/email/forgot_password.html:17
 #: themes/default/templates/account/email/forgot_password_openid.html:16
 #: themes/default/templates/account/email/validate_account.html:22
 msgid "If you did not request this, please ignore this email"
-msgstr ""
+msgstr "Se non hai fatto tu la richiesta, ignora pure questa mail"
 
 #: themes/default/templates/account/email/forgot_password.html:20
 msgid "To recover your password, please visit the URL below"
-msgstr ""
+msgstr "Per recuperare la tua password, per favore vai sull'url sotto"
 
 #: themes/default/templates/account/email/forgot_password.html:23
 msgid "Click here to recover your account"
-msgstr ""
+msgstr "Clicca qui per recuperare il tuo account"
 
 #: themes/default/templates/account/email/forgot_password.html:26
 #: themes/default/templates/account/email/forgot_password_openid.html:22
 #: themes/default/templates/account/email/validate_account.html:31
 msgid "Regards"
-msgstr ""
+msgstr "Saluti"
 
 #: themes/default/templates/account/email/forgot_password_openid.html:4
 #, fuzzy
 msgid "Recover your password"
-msgstr "Resetta la password"
+msgstr "Recupera la password"
 
 #: themes/default/templates/account/email/forgot_password_openid.html:19
 msgid "Our records show that you use your"
@@ -528,21 +535,21 @@ msgstr ""
 #: themes/default/templates/account/email/forgot_password_openid.html:25
 #: themes/default/templates/account/email/validate_account.html:34
 msgid "Team"
-msgstr ""
+msgstr "Team"
 
 #: themes/default/templates/account/email/validate_account.html:4
 #, fuzzy
 msgid "Validate your account"
-msgstr "Crea un account"
+msgstr "Conferma il tuo account"
 
 #: themes/default/templates/account/email/validate_account.html:13
 #, fuzzy
 msgid "Thank you for creating an account in"
-msgstr "Crea un account"
+msgstr "Grazie per aver creato un account in"
 
 #: themes/default/templates/account/email/validate_account.html:16
 msgid "Just one more step!"
-msgstr ""
+msgstr "Ancora un altro passaggio!"
 
 #: themes/default/templates/account/email/validate_account.html:19
 msgid ""
@@ -557,11 +564,11 @@ msgstr ""
 #: themes/default/templates/admin/_helpers.html:9
 #, fuzzy
 msgid "nick"
-msgstr "Nick"
+msgstr "nickname"
 
 #: themes/default/templates/admin/_helpers.html:10
 msgid "Member since"
-msgstr ""
+msgstr "Membro da"
 
 #: themes/default/templates/admin/_helpers.html:14
 msgid "Remove from admin group"
@@ -578,7 +585,7 @@ msgstr "Gestisci Categorie"
 #: themes/default/templates/admin/categories.html:20
 #: themes/default/templates/admin/update_category.html:19
 msgid "Category name"
-msgstr "Nome della categoria"
+msgstr "Nome categoria"
 
 #: themes/default/templates/admin/categories.html:21
 #: themes/default/templates/admin/update_category.html:20
@@ -605,15 +612,15 @@ msgstr "Cancella Categoria"
 
 #: themes/default/templates/admin/dashboard.html:19
 msgid "Dashboard last 7 days"
-msgstr ""
+msgstr "Dashboard degli ultimi 7 giorni"
 
 #: themes/default/templates/admin/dashboard.html:22
 msgid "Refresh"
-msgstr ""
+msgstr "Aggiorna"
 
 #: themes/default/templates/admin/dashboard.html:28
 msgid "Active users"
-msgstr ""
+msgstr "Utenti attivi"
 
 #: themes/default/templates/admin/dashboard.html:37
 #, fuzzy
@@ -623,7 +630,7 @@ msgstr "Utenti anonimi"
 #: themes/default/templates/admin/dashboard.html:46
 #, fuzzy
 msgid "Draft projects"
-msgstr "Progetti bozza"
+msgstr "Bozza Progetti"
 
 #: themes/default/templates/admin/dashboard.html:54
 #, fuzzy
@@ -633,26 +640,26 @@ msgstr "Progetti pubblicati"
 #: themes/default/templates/admin/dashboard.html:62
 #, fuzzy
 msgid "Updated projects"
-msgstr "Aggiornare il progetto"
+msgstr "Progetti aggiornati"
 
 #: themes/default/templates/admin/dashboard.html:70
 #, fuzzy
 msgid "New tasks"
-msgstr "Sfoglia tasks"
+msgstr "Nuovi compiti"
 
 #: themes/default/templates/admin/dashboard.html:79
 #, fuzzy
 msgid "New Answers"
-msgstr "risposte contribuite"
+msgstr "Nuove risposte"
 
 #: themes/default/templates/admin/dashboard.html:88
 #, fuzzy
 msgid "New Users"
-msgstr "Top 5 utenti"
+msgstr "Nuovi utenti"
 
 #: themes/default/templates/admin/dashboard.html:97
 msgid "Returning Users"
-msgstr ""
+msgstr "Utenti rientrati"
 
 #: themes/default/templates/admin/dashboard.html:108
 #, fuzzy
@@ -662,42 +669,42 @@ msgstr "Ultima attività"
 #: themes/default/templates/admin/dashboard.html:115
 #, fuzzy
 msgid "new project created"
-msgstr "Progetto creato!"
+msgstr "progetto creato"
 
 #: themes/default/templates/admin/dashboard.html:119
 #, fuzzy
 msgid "has published a blog post"
-msgstr "Scrivi un post sul blog"
+msgstr "ha pubblicato un post sul blog"
 
 #: themes/default/templates/admin/dashboard.html:123
 msgid "has added new tasks"
-msgstr ""
+msgstr "ha aggiunto nuovi compiti"
 
 #: themes/default/templates/admin/dashboard.html:127
 #, fuzzy
 msgid "has completed a task"
-msgstr "completato"
+msgstr "ha completato un compito"
 
 #: themes/default/templates/admin/dashboard.html:131
 #, fuzzy
 msgid "has contributed to"
-msgstr "compiti contribuito"
+msgstr "ha contribuito a"
 
 #: themes/default/templates/admin/dashboard.html:139
 #: themes/default/templates/admin/dashboard.html:149
 #, fuzzy
 msgid "has joined"
-msgstr "Iscritto"
+msgstr "si è iscritto"
 
 #: themes/default/templates/admin/dashboard.html:159
 msgid "No data available yet. You'll need to wait 24 hours."
-msgstr ""
+msgstr "Nessun dato è ora disponibilie. Serve attendere 24 ore"
 
 #: themes/default/templates/admin/del_category.html:15
 #: themes/default/templates/projects/delete.html:14
 #: themes/default/templates/projects/tasks/delete.html:14
 msgid "Danger Zone!"
-msgstr "Attenzione!"
+msgstr "Zona Pericolosa!"
 
 #: themes/default/templates/admin/del_category.html:15
 msgid ""
@@ -710,29 +717,29 @@ msgstr ""
 #: themes/default/templates/admin/del_category.html:21
 #, fuzzy
 msgid "No, do not delete it"
-msgstr "No, non cancellare!"
+msgstr "No, non cancellare"
 
 #: themes/default/templates/admin/index.html:15
 #, fuzzy
 msgid "Dashboard"
-msgstr "Leaderboard"
+msgstr "Dashboard"
 
 #: themes/default/templates/admin/index.html:16
 #, fuzzy
 msgid "Internal Statistics"
-msgstr "Statistiche generali"
+msgstr "Statistiche interne"
 
 #: themes/default/templates/admin/index.html:18
 msgid "Go"
-msgstr ""
+msgstr "Vai"
 
 #: themes/default/templates/admin/index.html:22
 msgid "Background Jobs"
-msgstr ""
+msgstr "Lavori di background"
 
 #: themes/default/templates/admin/index.html:23
 msgid "Monitor the background jobs"
-msgstr ""
+msgstr "Monitora i lavori di background"
 
 #: themes/default/templates/admin/index.html:25
 #: themes/default/templates/admin/index.html:34
@@ -756,7 +763,7 @@ msgstr "Categorie"
 
 #: themes/default/templates/admin/index.html:39
 msgid "Manage project categories"
-msgstr "Gestisci categorie progetto"
+msgstr "Gestisci le categorie progetto"
 
 #: themes/default/templates/admin/index.html:47
 msgid "Administrators"
@@ -785,16 +792,16 @@ msgstr "CSV"
 
 #: themes/default/templates/admin/index.html:66
 msgid "Latest news from PyBossa"
-msgstr ""
+msgstr "Ultime news da PyBossa"
 
 #: themes/default/templates/admin/index.html:69
 msgid "New PyBossa version"
-msgstr ""
+msgstr "Nuova versione di PyBossa"
 
 #: themes/default/templates/admin/index.html:69
 #, fuzzy
 msgid "New SciFabric Blog Post"
-msgstr "Scrivi un post sul blog"
+msgstr "Nuovo post sul blog di SciFabric"
 
 #: themes/default/templates/admin/projects.html:13
 msgid "Manage featured projects"
@@ -806,11 +813,11 @@ msgstr "Aggiorna categoria"
 
 #: themes/default/templates/admin/users.html:14
 msgid "Manage Admin Users"
-msgstr ""
+msgstr "Gestisci Utenti Admin"
 
 #: themes/default/templates/admin/users.html:19
 msgid "Try with the full name or nick"
-msgstr "Prova con il nome completo o il nick"
+msgstr "Prova con il nome completo o il nickname"
 
 #: themes/default/templates/admin/users.html:20
 msgid "Search"
@@ -819,11 +826,11 @@ msgstr "Cerca"
 #: themes/default/templates/admin/users.html:24
 #, fuzzy
 msgid "Found Users"
-msgstr "Top 5 utenti"
+msgstr "Utenti trovati"
 
 #: themes/default/templates/admin/users.html:31
 msgid "Current Users with Admin privileges"
-msgstr ""
+msgstr "Attuali utenti con i privilegi di Admin"
 
 #: themes/default/templates/home/_about.html:5
 msgid ""
@@ -837,16 +844,16 @@ msgid ""
 msgstr ""
 "PyBossa è una piattaforma gratuita, open-source, crowd-sourcing e micro-"
 "tasking. Permette alle persone di creare e avviare progetti che "
-"utilizzano l'aiuto online nell'eseguire processi che richiedono "
-"cognizione umana come la classificazione delle immagini, la trascrizione,"
-" il geocoding e altro. PyBossa è qui per aiutare i ricercatori, gli "
-"hackers civici e gli sviluppatori a creare progetti a cui chiunque nel "
-"mondo con un po' di tempo, interesse e una connessione internet può "
+"utilizzano l'aiuto online per eseguire processi che richiedono "
+"la cognizione delle persone come la classificazione delle immagini, la trascrizione,"
+" il geocoding e altro. PyBossa c'è per aiutare i ricercatori, gli "
+"hackers civici e gli sviluppatori a creare progetti per tutti quelli sparsi nel "
+"mondo che, con un po' di tempo, interesse e una connessione internet, possono "
 "contribuire. "
 
 #: themes/default/templates/home/_about.html:8
 msgid "PyBossa is different to existing efforts:"
-msgstr "Pybossa è diverso dai lavori esistenti:"
+msgstr "Pybossa è diverso dalle piattaforme esistenti:"
 
 #: themes/default/templates/home/_about.html:10
 #, python-format
@@ -859,9 +866,9 @@ msgid ""
 " handle payment or money — it is designed to support volunteer-driven "
 "projects."
 msgstr ""
-"A differenza , ad esempio, \"Turco meccanico \" progetti di stile , "
-"PyBossa non è progettato per gestire il pagamento o il denaro - è stato "
-"progettato per sostenere progetti di volontariato - driven."
+"A differenza , ad esempio, dei servizi come \"Amazon Mechanical Turk \", "
+"PyBossa non è progettato per gestire remunerazioni o pagamenti in denaro, ma è stato "
+"progettato per sostenere progetti basati sul volontariato."
 
 #: themes/default/templates/home/_about.html:13
 msgid ""
@@ -871,28 +878,28 @@ msgid ""
 "snippets of Javascript and HTML which are then deployed on a PyBossa "
 "instance (such as"
 msgstr ""
-"È stato creato come piattaforma e framework per sviluppare progetti "
-"crowd-sourcing e microtasking da lanciare piuttosto che essere un "
-"progetto crowd-sourcing esso stesso. Progetti crowd-sourcing individuali "
+"È stato progettato come piattaforma e framework per sviluppare progetti "
+"crowd-sourcing e microtasking piuttosto che essere esso stesso  un"
+"un unico progetto crowd-sourcing. I progetti crowd-sourcing individuali "
 "sono scritti come semplici frammenti di Javascript e HTML che vengono poi"
-" messi in un testo PyBossa (come"
+"distribuiti su PyBossa (come"
 
 #: themes/default/templates/home/_about.html:13
 msgid ""
 "This way one can easily develop custom projects while using the PyBossa "
 "platform to store your data, manage users, and handle workflow"
 msgstr ""
-"In questo modo si può facilmente sviluppare progetti personalizzati "
-"durante l'utilizzo della piattaforma PyBossa per memorizzare i dati , "
-"gestire gli utenti , e di gestire il flusso di lavoro"
+"In questo modo si possono facilmente sviluppare progetti personalizzati "
+"mentre si utilizza la piattaforma PyBossa per memorizzare i dati, "
+"gestire gli utenti e il flusso di lavoro manuale"
 
 #: themes/default/templates/home/_about.html:18
 msgid "You can read more about the architecture in the"
-msgstr "Puoi leggere più riguardo l'architettura nel"
+msgstr "Puoi leggere di più sull'architettura nella"
 
 #: themes/default/templates/home/_about.html:18
 msgid "PyBossa Documentation"
-msgstr "Documentazione PyBossa"
+msgstr "Documentazione di PyBossa"
 
 #: themes/default/templates/home/_about.html:18
 msgid "and follow the"
@@ -913,14 +920,14 @@ msgid ""
 " PyBossa provides individual statistics for every project in the system, "
 "as well as a"
 msgstr ""
-"PyBossa garantisce statistiche individuali per ogni progetto nel sistema,"
-" e anche un"
+"PyBossa garantisce statistiche individuali per ogni progetto nel sistema, "
+"e anche una"
 
 #: themes/default/templates/home/_about.html:23
 msgid "general overview about the system like total number of users, tasks, etc"
 msgstr ""
-"panoramica generale sul sistema , come numero totale di utenti , compiti "
-", ecc"
+"panoramica generale sul sistema, come numero totale di utenti, compiti "
+"ecc"
 
 #: themes/default/templates/home/_about.html:25
 msgid "Check the global statistics"
@@ -944,7 +951,7 @@ msgstr "Lista e-mail:"
 
 #: themes/default/templates/home/_about.html:31
 msgid "Report any bug, issue or improvement:"
-msgstr "Segnalare qualsiasi bug , problema o il miglioramento:"
+msgstr "Segnalare qualsiasi bug, problema o miglioramento:"
 
 #: themes/default/templates/home/_about.html:33
 msgid "Github Issues"
@@ -966,7 +973,7 @@ msgstr "Aiuta la ricerca a progredire"
 
 #: themes/default/templates/home/_pybossa_text.html:4
 msgid "Everything is open and freely usable"
-msgstr "Tutto è aperto e liberamente utilizzabili"
+msgstr "Tutto è aperto e liberamente utilizzabile"
 
 #: themes/default/templates/home/_pybossa_text.html:5
 msgid "Things computers can't do"
@@ -2507,29 +2514,31 @@ msgstr "Importa un foglio di calcolo Google Drive"
 msgid ""
 "Use the Google Drive\n"
 "      importer"
-msgstr "Usa il template Google Drive"
+msgstr ""
+"Usa l'importatore di "
+"Google Drive\n"
 
 #: themes/default/templates/projects/tasks/s3.html:2
 msgid "S3"
-msgstr ""
+msgstr "S3"
 
 #: themes/default/templates/projects/tasks/s3.html:3
 msgid "Use files from an Amazon S3 bucket"
-msgstr ""
+msgstr "Utilizza file da Amazon S3 bucket"
 
 #: themes/default/templates/projects/tasks/s3.html:5
 #, fuzzy
 msgid "Use the Amazon S3 importer"
-msgstr "Usa il template Google Drive"
+msgstr "Usa l'importatore di Amazon S3"
 
 #: themes/default/templates/projects/tasks/twitter.html:3
 msgid "Import tweets from a search or a user account"
-msgstr ""
+msgstr "Importa tweet da una ricerca o un account"
 
 #: themes/default/templates/projects/tasks/twitter.html:5
 #, fuzzy
 msgid "Use the Twitter importer"
-msgstr "Usa il template Google Drive"
+msgstr "Usa l'importatore di Twitter"
 
 #: themes/default/templates/stats/global.html:38
 msgid "General Statistics"
@@ -2550,7 +2559,7 @@ msgstr "Totale"
 
 #: themes/default/templates/stats/global.html:52
 msgid "Top 5 Users in the last 24 hours"
-msgstr "Top 5 utenti in ultime 24 ore"
+msgstr "Top 5 utenti nelle ultime 24 ore"
 
 #: themes/default/templates/stats/global.html:55
 msgid "with"
@@ -2579,7 +2588,7 @@ msgstr "Nessun progetto attivo nelle ultime 24 ore"
 
 #: themes/default/templates/stats/global.html:135
 msgid "Tasks and Answers"
-msgstr "Processi e risposte"
+msgstr "Compiti e risposte"
 
 #: themes/default/templates/stats/global.html:138
 msgid "Number of Tasks"
@@ -2587,7 +2596,7 @@ msgstr "Numero di compiti"
 
 #: themes/default/templates/stats/global.html:139
 msgid "Number of Task Runs"
-msgstr "Numero di Task Runs"
+msgstr "Numero di compiti eseguiti"
 
 #: themes/default/templates/stats/global.html:167
 msgid "Anonymous Volunteers"
@@ -2612,7 +2621,7 @@ msgstr "Punteggio"
 #~ msgstr "Oops! Sembra che il file sia vuoto."
 
 #~ msgid "Task imported successfully!"
-#~ msgstr "Processo importato con successo!"
+#~ msgstr "Compito importato con successo!"
 
 #~ msgid "The file you uploaded has two headers with the same name."
 #~ msgstr "Il file che hai caricato ha due intestazioni con lo stesso nome"
@@ -2621,25 +2630,25 @@ msgstr "Punteggio"
 #~ msgstr "Oops! Quel file non sembra il file giusto"
 
 #~ msgid "It looks like there were no new records to import"
-#~ msgstr "Ops! Non sembrano esserci nuovi documenti da importare."
+#~ msgstr "Non sembrano esserci nuovi record da importare."
 
 #~ msgid "new tasks were imported successfully"
-#~ msgstr "Compiti importato con successo"
+#~ msgstr "Nuovi compiti sono stati importati con successo"
 
 #~ msgid "new task was imported successfully"
-#~ msgstr "Compiti importato con successo"
+#~ msgstr "Il nuovo compito è stato importato con successo"
 
 #~ msgid "Name is already taken."
 #~ msgstr "Scegliere un altro nome."
 
 #~ msgid "Short Name"
-#~ msgstr "Nome"
+#~ msgstr "Nome breve"
 
 #~ msgid "Short Name is already taken."
 #~ msgstr "Nome breve è già stato preso."
 
 #~ msgid "Long Description"
-#~ msgstr "Descrizione esaustiva"
+#~ msgstr "Descrizione completa"
 
 #~ msgid "You must provide a description."
 #~ msgstr "Dovrebbe fornire una descrizione"
@@ -2657,19 +2666,19 @@ msgstr "Punteggio"
 #~ msgstr "Password (lasciare vuoto per nessuna password)"
 
 #~ msgid "Webhook"
-#~ msgstr ""
+#~ msgstr "Webhook"
 
 #~ msgid "Task IDs"
-#~ msgstr "Nomi dei lavori"
+#~ msgstr "ID compito"
 
 #~ msgid "Title"
 #~ msgstr "Titolo"
 
 #~ msgid "You must enter a title for the post."
-#~ msgstr "Bisogna introdurre un titolo per il messaggio"
+#~ msgstr "Bisogna inserire un titolo per il post"
 
 #~ msgid "Body"
-#~ msgstr "Corpo"
+#~ msgstr "Body"
 
 #~ msgid "You must enter some text for the post."
 #~ msgstr "Inserire del testo per il post"
@@ -2678,7 +2687,7 @@ msgstr "Punteggio"
 #~ msgstr "Password"
 
 #~ msgid "You must enter a password"
-#~ msgstr "Bisogna introdurre una chiave di accesso"
+#~ msgstr "Bisogna inserire una password"
 
 #~ msgid "You must provide a URL"
 #~ msgstr "Bisogna fornire una URL"
@@ -2705,7 +2714,7 @@ msgstr "Punteggio"
 #~ msgstr "È necessario fornire una password"
 
 #~ msgid "Album ID"
-#~ msgstr ""
+#~ msgstr "Album ID"
 
 #~ msgid "The e-mail is required"
 #~ msgstr "È necessaria l'e-mail"
@@ -2723,13 +2732,13 @@ msgstr "Punteggio"
 #~ msgstr "Il nome utente deve essere lungo da 3 a 35 caratteri"
 
 #~ msgid "The user name is already taken"
-#~ msgstr "Il nome utente è gia definito"
+#~ msgstr "Il nome utente è gia stato preso"
 
 #~ msgid "User name"
 #~ msgstr "Nome utente"
 
 #~ msgid "Email must be between 3 and 35 characters long"
-#~ msgstr "L' E-mail deve essere lunga da 3 a 35 caratteri"
+#~ msgstr "La mail deve essere lunga da 3 a 35 caratteri"
 
 #~ msgid "Email is already taken"
 #~ msgstr "E-mail non disponibile"
@@ -2753,7 +2762,7 @@ msgstr "Punteggio"
 #~ msgstr "Nome utente"
 
 #~ msgid "Get email notifications"
-#~ msgstr ""
+#~ msgstr "Invia notifiche mail"
 
 #~ msgid "Language"
 #~ msgstr "Lingua"
@@ -2774,10 +2783,10 @@ msgstr "Punteggio"
 #~ msgstr "Francese"
 
 #~ msgid "German"
-#~ msgstr ""
+#~ msgstr "Tedesco"
 
 #~ msgid "Italian"
-#~ msgstr ""
+#~ msgstr "Italiano"
 
 #~ msgid "Current password"
 #~ msgstr "Password attuale"
@@ -2801,13 +2810,13 @@ msgstr "Punteggio"
 #~ msgstr "Sono permessi solo valori separati da virgola, non spazi"
 
 #~ msgid "Invalid URL"
-#~ msgstr ""
+#~ msgstr "Url errato"
 
 #~ msgid "Connection error"
-#~ msgstr ""
+#~ msgstr "Errore di connessione"
 
 #~ msgid "This name is used by the system."
-#~ msgstr ""
+#~ msgstr "Questo nome è già in uso"
 
 #~ msgid "my current password"
 #~ msgstr "La mia password attuale"
@@ -2834,10 +2843,10 @@ msgstr "Punteggio"
 #~ msgstr "Ora sei uscito"
 
 #~ msgid "Register"
-#~ msgstr "Register"
+#~ msgstr "Registro"
 
 #~ msgid "Subscribe to our Newsletter"
-#~ msgstr ""
+#~ msgstr "Iscriviti alla nostra Newsletter"
 
 #~ msgid "Thanks for signing-up"
 #~ msgstr "Grazie per esserti registrato"
@@ -2855,7 +2864,7 @@ msgstr "Punteggio"
 #~ msgstr "Bene, hai cambiato la tua password correttamente!"
 
 #~ msgid "Your current password doesn't match the one in our records"
-#~ msgstr ""
+#~ msgstr "La password corrente non corrisponde a quella nel nostro archivio"
 
 #~ msgid "You reset your password successfully!"
 #~ msgstr "Hai reimpostato la password correttamente!"
@@ -2864,7 +2873,7 @@ msgstr "Punteggio"
 #~ msgstr "Ti abbiamo mandato una mail con le istruzione per recuperare l'account"
 
 #~ msgid "Something went wrong, please correct the errors on the form"
-#~ msgstr "Qualcosa è andato storto, per favore correggi gli errori nella forma"
+#~ msgstr "Qualcosa è andato storto, per favore correggi gli errori nel modulo"
 
 #~ msgid "New API-KEY generated"
 #~ msgstr "Generata nuova API-KEY"
@@ -2885,16 +2894,16 @@ msgstr "Punteggio"
 #~ msgstr "È possibile controllare il"
 
 #~ msgid "Guide and Documentation"
-#~ msgstr "la Guida e la Documentazione"
+#~ msgstr "Guida e Documentazione"
 
 #~ msgid "for adding tasks, a thumbnail, using PyBossa.JS, etc."
-#~ msgstr "per aggiungere processi, una miniatura, usare PyBossa.JS, etc."
+#~ msgstr "per aggiungere compiti, una miniatura, usando PyBossa.JS, etc."
 
 #~ msgid "Task presenter added!"
 #~ msgstr "Presentatore di Task aggiunto!"
 
 #~ msgid "<strong>Note</strong> You will need to upload the tasks using the"
-#~ msgstr "<strong>Nota</strong> Dovrai caricare i tasks usando"
+#~ msgstr "<strong>Nota</strong> Dovrai caricare i tasks usando il"
 
 #~ msgid "CSV importer"
 #~ msgstr "CSV importatore"
@@ -2912,7 +2921,7 @@ msgstr "Punteggio"
 #~ msgstr "Sto importando i processi, potrebbe volerci un po', attendi..."
 
 #~ msgid "Success! Tasks will be imported daily."
-#~ msgstr ""
+#~ msgstr "Evviva! Compiti verranno importati tutti i giorni."
 
 #~ msgid "Sorry, incorrect password"
 #~ msgstr "La mia password attuale"
@@ -2939,13 +2948,13 @@ msgstr "Punteggio"
 #~ msgstr "Scrivi un nuovo post"
 
 #~ msgid "Blog post created!"
-#~ msgstr "Blog messaggio creato !"
+#~ msgstr "Blog post creato!"
 
 #~ msgid "Edit a post"
 #~ msgstr "Modifica un post"
 
 #~ msgid "Blog post updated!"
-#~ msgstr "Blog post aggiornato !"
+#~ msgstr "Blog post aggiornato!"
 
 #~ msgid "Hidden"
 #~ msgstr "Nascosto"
@@ -2954,5 +2963,5 @@ msgstr "Punteggio"
 #~ msgstr "No"
 
 #~ msgid "Grant Crowdcrafting access to your Flickr albums to select one..."
-#~ msgstr ""
+#~ msgstr "Concedi a Crowdcrafting l'accesso ai tuoi album di Flickr per selezionarne uno ..."
 
