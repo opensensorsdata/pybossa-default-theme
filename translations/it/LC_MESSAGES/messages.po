@@ -215,9 +215,9 @@ msgid ""
 " just provided. Please, check it out and click on the link you'll find to"
 " create your account at"
 msgstr ""
-"In order to confirm your identity, we've sent an email to the address you"
-" just provided. Please, check it out and click on the link you'll find to"
-" create your account at"
+"Per confermare la tua identità, ti abbiamo inviato una mail all'indirizzo"
+" che hai appena fornito. Per favore, esci e fai clic "
+" sul link che troverai nel tuo account di mail"
 
 #: themes/default/templates/account/account_validation.html:9
 msgid ""
